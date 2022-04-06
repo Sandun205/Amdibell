@@ -101,7 +101,6 @@ HAVE A FUN!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sandun205/Amdibell
 
 
-
 ## 🔎 What Amdibell bot?
 **Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
 
